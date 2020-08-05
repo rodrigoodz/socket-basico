@@ -1,8 +1,6 @@
 # Notas:
 
-Este es servidor de express listo para ejecutarse y servir la carpeta public en la web.
+Ejemplo de sockets bastante simple, usando el paquete de sockets.io que permite la comunicación bidireccional basada en eventos en tiempo real.
+El codigo permite ver la comunicacion servidor-cliente y viceversa.
 
-
-```
-npm install
-```
+## Recordar -> npm install
